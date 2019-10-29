@@ -33,7 +33,7 @@ These are the files and folders included in this repository
 
 - Notebooks - contains 2 files; i.) comparesims.ipynb - comparing simulation conversion rates to conversion rates observed in original simulation (with no filters), ii.) Samplesvactuals.ipynb - comparing sample transitions to population data
 - Data Extraction - contains sqlextract.sql - the sql script used to extract the data from the source
-- Project Reports - contains Project Report.pdf, this is a full report on the project with a more indepth explanation of each task
+- Project Reports - contains i.) Project Report.pdf, this is a full report on the project with a more indepth explanation of each task, ii.) Capstone 1 Insights Report, this is presentation of the business insights extracted from the simulations carried out
 
 
 
