@@ -35,6 +35,3 @@ These are the files and folders included in this repository
 - Data Extraction - contains sqlextract.sql - the sql script used to extract the data from the source
 - Project Reports - contains i.) Project Report.pdf, this is a full report on the project with a more indepth explanation of each task, ii.) Capstone 1 Insights Report, this is presentation of the business insights extracted from the simulations carried out
 
-
-
-There appeared to be possible flaws in the data extraction process as it appeared as though no user
