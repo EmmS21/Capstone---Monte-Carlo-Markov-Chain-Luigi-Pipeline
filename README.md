@@ -35,5 +35,5 @@ These are the files and folders included in this repository
 - Data Extraction - contains sqlextract.sql - the sql script used to extract the data from the source
 - Project Reports - contains i.) Project Report.pdf, this is a full report on the project with a more indepth explanation of each task, ii.) Capstone 1 Insights Report, this is a presentation of the business insights extracted from the simulations carried out
 
-####Blog
+#### Blog
 https://hackernoon.com/building-a-monte-carlo-markov-chain-pipeline-using-luigi-jocf3223
